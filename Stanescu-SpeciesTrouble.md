@@ -28,4 +28,3 @@ Stanescu, James. "Species Trouble: Judith Butler, Mourning, and the Precarious L
 578:  "It is our very ability to be wounded, our very dependency, that brings us together."
 
 579:  "Those of us who mourn animals, those of us who mourn the animals at the butcher counter at the beginning of this article, face a double burden. Not only is the mourning of animals something completely disavowed, but those animals we mourn are so often anonymous animals."
-
