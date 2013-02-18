@@ -20,8 +20,24 @@ Chapter 2: Animals and Biology as Destiny
 Chapter 3: Animals, Social Inequalities and Oppression
 ---
 
+37:  "Like racism, sexism and classism (to give three examples), speciesism has social structural and economic causes, it is institutionally based, it supports oppressive social arrangements and it 'legitimates and inspires prejudice and discrimination.'"
+
+	Citing: Nibert, D. *Animal Rights/Human Rights: Entanglement of Opression and Liberation*. Rowman & Littlefield, 2002 at 10, 17.
+	
+37:  Nibert identifies three factors legitimating speciesism: economic exploitation/competition, unequal power (especially state) and ideological control. (Citing 2002 at 13).
+
+40:  "Ideologies are beliefs that legitimate powerful interests and thus justify the subordination of one group by another and, as such, ideologies that devalue a whole group (such as racism, sexism, classism and speciesism) are socially constructed."
+
+43:  "A social constructionist critique suggests that our notions of 'animal' and 'human' are purely ideas, not truths; they are ideas that are constructed within discourses and are maintained through the use of discourses."
+
 Chapter 4: Animals, Crime and Abuse
 ---
+
+52:  "The change in the legal position of other animals is an indicator of changing ideas about the moral worth of other animals and notions of whether other animals have rights."
+
+55:  "Much discussion about the abuse of other animals centres on the links between such abuse and the abuse of humans, and this has become an important area of sociological research. Crucially, much less attention has been given to the other animals as the one who is wronged"
+
+
 
 Chapter 5: Town and Country: Animals, Space and Place
 ---
