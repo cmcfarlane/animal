@@ -70,7 +70,20 @@ Chapter 6: Consumption of the Animal
 Chapter 7: Animals, Leisure and Culture
 ---
 
+115:  "Representations of other animals reflect and shape our notions of difference between us and other animals and, in doing so, reflect and shape how we see ourselves as human."
+
 Chapter 8: Animal Experiments and Animal Rights
 ---
 
+128:  "Annually an average of 115 million living vertebrate other animals are used in experiments worldwide. This staggering figure can only be estimated as the majority of countries (79%) do not publish details of the number of other animals used. However, using statistical calculations Katy Taylor and her colleagues estimate that the USA, Japan, China, Australia, France, Canada, the UK, Germany, Taiwan and Brazil use the highest number of other animals in experiments. In 2005 in the European Union (EU) alone, 12.2 million vertebrate living other animals were used in experiments, and in 2010 3.6 million other animals were used in experiments in the UK, representing a 3 per cent increase on the figure for the previous year. These figures only cover mainly vertebrate other animals; there are many additional invertebrate other animals who are not included in the statistics as they are not considered to be 'animals' for the purposes of 'protection.'"
+
+	Primarily citing Taylor, Gordon, Langley, and Higgins. "Estimates of Worldwide Laboratory Animal Use in 2005." *Alternatives to Laboratory Animals* 36 (2008): 327-42.
+
+131:  "Looking at the UK alone, the most recent figures reveal that in 69 per cent of all procedures (which include those for biomedical and other purposes) no anaesthetic was used."
+
 Chapter 9: Conclusions: Sociology for Other Animals
+---
+
+145-6:  Quoting Clifton Bryant (1979 at 399): sociologists "have tended not to recognize, to overlook, to ignore, or to neglect … the influence of animals, or their import for, our social behavior, our relationships with other humans, and the directions which our social enterprise often takes."
+
+150:  "For me, sociology for humans and other animals also does the same discrediting of traditional sociology's claims to objectivity, as sociologists are human. In consequence, rather than being objective, sociological knowledge as we understand it is grounded in humanness."
