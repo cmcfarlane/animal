@@ -19,6 +19,32 @@ xxiv:  "we are not and have never been the sole authors of a history that is alw
 Chapter 1: A Report on the Animal Turn
 ---
 
+4:  "Unlike in women's studies or ethnic studies, however, those who constitute the object of animal studies cannot speak for themselves, or at least they cannot speak any of the languages that the academy recognizes as necessary for such self-representation. Must they then be forever condemned to the status of objects?"
+
+5:  "one might ask how the notion of 'animal rights' might similarly entrench animals under a falsely unifying idea of 'the animal'?"
+
+5:  "If animal studies has come of age, it is perhaps because nonhuman animals have become a limit case for theories of difference, otherness, and power."
+
+7:  "On the one hand are those who look to our nonhuman others with envy or admiration precisely because they remain outside language and thus suggest the possibility of unmediated experience. On the other are those who would prove that animals do indeed speak and can tell us, however imperfectly, of their lives and their traumas."
+
+11:  "the problem of language is less one of imitation than of translation."
+
+11:  We may know animals in ways they cannot--we may know their breeds, their color, their weight, their names, their 'histories'--but they may also know us in aways that we cannot know because they know the world and us by other means."
+
+15:  "Deleuze and Guattari want to free humans and animals from meaning altogether and thus to undo the very identities that confirm a distinction between human and animal."
+
+16:  "With Agamben, as with Deleuze and Guattari, theory's concern for the animal moved quite a distance from questions of rights or even protection for animals."
+
+16:  "has, indeed, little to say about the actual animals we live with."
+
+17:  "This is an area that has brought animal and trauma studies together: we can recognize the serious harms rendered to victims of horrific acts, but we cannot count on those victims to tell us their stories or what to do about them."
+
+20:  "With this in mind [Bennett's critical empathy], we might then want to call an ethical relating to animals (whether in theory or in art) 'critical anthropomorphism' in the sense that we open ourselves to touch and to be touched by others as fellow subjects and may imagine their pain, pleasure, and need in anthropomorphic terms, but stop short of believing that we can know their experience."
+
+20:  "critical anthropomorphism must begin with the acknowledgment that the irreducible difference that animals may present for us is one that is also within us and within the term *human*."
+
+22:  "The ethical, like the animal, is a category of the human."
+
 Chapter 2: Seeing Animals
 ---
 
