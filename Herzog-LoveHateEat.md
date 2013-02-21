@@ -105,3 +105,51 @@ Chapter 6: In the Eyes of the Beholder: The Comparative Cruelty of Cockfights an
 Chapter 7: Delicious, Dangerous, Disgusting, and Dead: The Human-Meat Relationship
 ---
 
+176:  "It is true that an increasing number of people believe that animals are entitled to basic rights, including, one presumes, the right not to be killed because you happen to be made out of meat."
+
+181:  "meat is the most dangerous of the foods we eat."
+
+186:  "Meat-dog puppies are harvested at six months of age when they are still tender."
+
+189:  "[Paul] Rozin believes that people find many animal products, including their flesh, disgusting because animals are an uncomfortable reminder of our mortality."
+
+190:  "Usually, shoppers are drawn to foods that appear fresh, juicy, and natural. But in the case of meat, fresh, juicy, and natural is seen as gross, particularly to women."
+
+191:  "Ironically, the efforts by animal protectionists to improve the well-being of farm animals have made the consumption of flesh more, rather than less, morally palatable."
+
+194: "most 'vegetarians' in the United States eat animal flesh."
+
+196:  "Paul Rozin and his colleagues found moral-origin vegetarians are more disgusted by meat than health-origin vegetarians, and they are more upset at the prospect of chewing and swallowing it."
+
+201:  Quoting Gary Steiner: "You just haven't lived until you've tried to function as a strict vegan in a meat-crazed society. What were once the most straightforward activities become a constant ordeal."
+
+Chapter 8: The Moral Status of Mice: The Use of Animals in Science
+---
+
+207:  "vivisection--the nineteenth-century term for invasive animal research."
+
+213:  "The movie made me realize that the justification for animal experimentation, including my own research, ultimately rests on the premise that organisms with bigger brains have the right to conduct research on creatures with less developed mental capacities."
+
+213:  "I cannot see any way to set the moral bar so it is high enough to exclude all nonhuman animals, low enough to include all human beings, and be based on morally relevant traits--the ability to feel pain counts; having two legs does not."
+
+223:  "more genetically modified mice are gassed each year in rodent production facilities than are actually used in experiments."
+
+227:  "Our statistical analysis indicated that the committees might as well have made their decisions by flipping a coin."
+
+227:  "The truth is that scientists have problems discerning the quality and importance of research."
+
+234:  "I think the argument for animal research is stronger than that for any other human use of animals, including eating them." But, note, he still eats them.
+
+Chapter 9: The Cats in Our Houses, The Cows on Our Plates
+---
+
+241:  "It turns out that three out of four animal rights activists are women, and most of them are politically liberal, well-educated, solidly middle class, and primarily white. Nearly all of them, of course, have pets. Animal activists come to their movement via different paths, but the most common thread is moral shock."
+
+246:  "Adding to their psychological burden is the fact that animal activists are constantly bombarded with reminders of animal cruelty--the meat counter at the grocery store, the smell of grilled flesh when they walked past a Burger King, a woman wearing a fur coat at the airport, the continual barrage of fund-raising emails from animal protection organizations that flood their inbox"
+
+Chapter 10: The Carnivorous Yahoo Within Ourselves: Dealing With Moral Inconsistency
+---
+
+266:  Quoting Michael Mountain of Best Friends: "I suppose my rule is much like the philosophy behind Best Friends. You can't save all the animals in the world, but the ones that come into your care, you are responsible for. So, once the fly enters my house, I have a responsibility to treat it with kindness."
+
+279:  "What the new science of anthrozoology reveals is that our attitudes, behaviors, and relationships with the animals in our lives--the ones we love, the ones we hate, and the ones we eat--are, likewise, more complicated than we thought."
