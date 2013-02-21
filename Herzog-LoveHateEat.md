@@ -67,3 +67,41 @@ Chapter 4: Friends, Foes, and Fashion Statements: The Human-Dog Relationship
 ---
 
 106:  "But if humans did not tame wolves, how did they become our pals? [Ray] Coppinger says they tamed themselves. He traces the emergence of dogs to the time people began to give up the nomadic life and settle into permanent villages. Settlements generate piles of refuse, potential gold mines for opportunistic scavengers. Wolves who were less nervous around humans would be more efficient garbage-pickers, just like the dogs-gone-wild you can see today hanging around garbage dumps on the outskirts of Lagos or Mexico City or Istanbul. These animals would have been better nourished than their warier competitors, hence bearing more offspring--puppies that would share their parents' genes for being less fearful of humans. Over generations, these tamer animals would have access to more food and eventually adapt to living around people. This self-domestication process would set the stage for unconscious selective breeding for functional traits like barking at strangers and chasing game."
+
+121:  "Presently, Americans seem to be in the burnout phase of another canine fad--the desire to own a purebred dog."
+
+125:  "In 1970, 23 million cats and dogs were euthanized in animal shelters in the United States. In 2007, the number had dropped to an estimated 4 million. This drastic reduction in the number of abandoned pets is the result of the most successful campaign in the history of the modern animal protection movement: the spay and neuter crusade."
+
+126:  "Spay and neuter campaigns have been much more successful in the Northeast, the Midwest, and on the West Coast than in my [North Carolina] part of the country."
+
+Chapter 5: 'Prom Queen Kills First Deer on Sixteenth Birthday': Gender and the Human-Animal Relationship
+---
+
+134:  "[Stephen Kellert] has consistently found that women are more concerned with protecting animals than men are. But, at the same time, phobias of creatures like snakes and spiders are three times more common in women than men. And while men know more about the biology and ecology of other species than women, they tend to appreciate animals for what Kellert calls 'practical and recreational reasons.' In other words, men are more likely to approve of killing animals for fun and profit."
+
+135:  "But while men and women are fairly similar when it comes to *attitudes* about animal welfare, the sexes are not at all alike when it comes to *taking action* on behalf of other species."
+
+135-6:  "The modern animal rights movement has recruited women in droves; every study of the sociology of animal liberation has found that three to four times as many women as men boycott circuses, march against animal experimentation, and drive cars plastered with 'Meat is Murder' bumper stickers."
+
+138:  "There is one exception to the rule that most animal abusers are men. Three times as many women as men get caught up in animal hoarding."
+
+Chapter 6: In the Eyes of the Beholder: The Comparative Cruelty of Cockfights and Happy Meals
+---
+
+150:  "And it dawned on me that the comparative ethics of fighting chickens versus eating them is more complicated than most people realize."
+
+158:  "In recent years, the influx of immigrants has affected cockfighting just as it has many other aspect of American culture. […] Old-timers aren't keen on these new developments."
+
+159:  "Most Appalachian cockfighters made no real effort to conceal their involvement in their sport, even though it was against the law."
+
+160:  "Most people imagine that cockfighters are low-life scum who peddle crystal meth when they are not gleefully torturing animals. I found, however, that the most psychologically interesting thing about rooster fighters is how boringly normal they are. Nearly all the cockers I have known led--aside from their devotion to a brutal bloodsport--ordinary lives complete with mortgages, wives, children, and day jobs."
+
+161:  "If cockfighters were sadistic perverts, it would be easy to explain their involvement in a cruel bloodsport. But given that most are not, how can they participate in an activity that is illegal and that nearly everyone in America thinks is immoral? The answer is that they construct a moral framework based on a mix of wishful thinking and logic in which cockfighting becomes completely acceptable. In this regard they are no different from any other person who exploits animals--hunters, circus animal trainers, even scientists and meat eaters."
+
+166:  "This leads to an asymmetry of animosity--animal activists hate cockfighters more than cockfighters hate animal protectionists."
+
+171:  "The war on cockfighting is about cruelty, but the subtext is social class."
+
+Chapter 7: Delicious, Dangerous, Disgusting, and Dead: The Human-Meat Relationship
+---
+
