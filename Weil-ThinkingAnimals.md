@@ -55,6 +55,12 @@ Chapter 2: Seeing Animals
 Chapter 3: Is a Pet an Animal? Domestication and Animal Agency
 ---
 
+55:  Discussing Tuan: "As products of and subjects to the abuse of power, pets are potential victims, but their status, like the status of human-pet relations more generally, is rendered ambiguous because of the care and 'humaneness' with which they may be bred, trained, and fed and because of the simultaneously abusive and productive ways power operates in the aesthetic-cultural realm."
+
+57:  "agency has become a problematic topic within animal studies because a notion of nonhuman agency carries the charge of anthropomorphism."
+
+60:  "Some theories are bent on proving humans' inhumanity toward animals, but in so doing they disregard or dismiss animals' humanlike qualities. Other theories focus precisely on the unseen or unacknowledged capabilities that pets share with humans in an effort to redeem practices that rely on those qualities, if not exploit them. […] the alternative of seeing dogs and cats and horses only as products of indefensible human dominion is also ideological."
+
 Chapter 4: Gendered Subjects/Abject Objects: Man(n)'s Best Friend
 ---
 
