@@ -48,6 +48,10 @@ Chapter 1: A Report on the Animal Turn
 Chapter 2: Seeing Animals
 ---
 
+26:  "the representation of various nonhuman animals poses the question of how they might be seen on their own terms rather than seen as fitting into categories imposed upon them by humans."
+
+45:  "Although anthropomorphism was a common practice in earlier times, under the Enlightenment any attribution of our own capacities or characteristics to animals was seen to conflict with the scientific and rational capacities that made us human."
+
 Chapter 3: Is a Pet an Animal? Domestication and Animal Agency
 ---
 
