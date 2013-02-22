@@ -78,6 +78,14 @@ Chapter 5: Dog Love/Wo(o)lf Love
 Chapter 6: A Proper Death
 ---
 
+101:  "What, indeed, is a proper death for a dog or a human, and what, if anything, determines what are 'proper' rituals of grief and mourning?"
+
+102:  "*Guardian*, as I explained earlier, has become the preferred term for those who have have and care for pets, but because horses are considered livestock rather than pets, it is really ownership (and money) that can make a difference in terms of how they die and what happens after their death."
+
+103:  "*Ownership* may  be the legal term with which we describe such relations, but on an emotional level the term does not describe such mutual dependence."
+
+112:  Quoting British Animal Studies Group: "Almost all areas of human life are at some point or other involved in or directly dependent on the killing of animals […]. This killing is ubiquitous and omnipresent… largely invisible in the public domain."
+
 Chapter 7: Thinking and Unthinking Animal Death: Temple Grandin and J.M. Coetzee
 ---
 
