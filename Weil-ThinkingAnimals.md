@@ -64,6 +64,8 @@ Chapter 3: Is a Pet an Animal? Domestication and Animal Agency
 Chapter 4: Gendered Subjects/Abject Objects: Man(n)'s Best Friend
 ---
 
+71:  "manhood is sought through the joint sacrifice of women and animals."
+
 Chapter 5: Dog Love/Wo(o)olf Love
 ---
 
