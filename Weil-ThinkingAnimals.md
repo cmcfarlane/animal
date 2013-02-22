@@ -89,6 +89,12 @@ Chapter 6: A Proper Death
 Chapter 7: Thinking and Unthinking Animal Death: Temple Grandin and J.M. Coetzee
 ---
 
+116:  "To prioritize our subjective (and messy) interdependence, according to much of current theory and literature, entails a stripping of autonomous selfhood or at least an undoing of those capacities for rational thinking, language, and agency that are said to determine ethical laws."
+
+120:  "(1) human consciousness is an obstacle to a knowledge we may have once possessed--a larger, less circumscribed, and less rational way of knowing--and (2) it may be possible if not to retrieve, then to imagine a fullness of vision in poetry or through the eyes of those who are removed from 'normal' sociolinguistic and cognitive disabilities."
+
+124:  "My point here is not to find fault with Grandin, who has done much to improve the handling of cattle, but to draw attention to the scene's contradictory and competing interests."
+
 Chapter 8: Animal Liberation or Shameless Freedom
 ---
 
