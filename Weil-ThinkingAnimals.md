@@ -66,8 +66,14 @@ Chapter 4: Gendered Subjects/Abject Objects: Man(n)'s Best Friend
 
 71:  "manhood is sought through the joint sacrifice of women and animals."
 
-Chapter 5: Dog Love/Wo(o)olf Love
+Chapter 5: Dog Love/Wo(o)lf Love
 ---
+
+81:  "'dog love' […] is paradoxically a bond that frees not only because of the perspective it offers on domesticity and the roles to which dog and mistress are confined, but also because it reveals, even as it acts to change the patriarchal foundations that link domestic or private and public worlds."
+
+83:  "The importance of acknowledging anthropomorphism and, for that matter, zoomorphism as strategies is to underscore not only the degree of invention involved in writing any life, but also and more important the limitations of the *Umwelt* or world in which our writing takes place and that we may not be able to escape other than by refuting our own situatedness within history."
+
+96:  "Dog love, we might say, is polymorphously productive rather than polymorphously perverse and, as such, a force for a more just and contented civilization."
 
 Chapter 6: A Proper Death
 ---
