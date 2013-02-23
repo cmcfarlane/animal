@@ -98,5 +98,21 @@ Chapter 7: Thinking and Unthinking Animal Death: Temple Grandin and J.M. Coetzee
 Chapter 8: Animal Liberation or Shameless Freedom
 ---
 
+131:  "In response to the 'impossibility of reality' and to the intensity of experiences that neither can quite understand, both Grandin and Lurie work within the system to make a difference to individual animals, one by one."
+
+132:  "what appears to link the welfarists to the abolitionists is their common acceptance of 'human exceptionalism,' whereby man, as a political (and ethical) animals, stands outside (either above or below) any necessary (or dependent) relation to other species--the former by understanding sovereignty as the essence of our ethical humanity, the latter by regarding sovereignty as the essence of our ignoble animality."
+
+135:  "But why, I have to ask, is the dog's death or any death shameful, and is not shame an idea?"
+
+136:  ""Only the extinction of all domestic animals--and he [Francione] made no distinction between animals for food and animals for companionship--is a solution to our wrongs."
+
+137:  "In this way, his [Lurie's] ideal is not unlike Francione's--if all relations between humans and domestic animals are relations of master and slave, we must let all the animal slaves die out so that we humans can feel good about ourselves and our purity."
+
+138:  "Such an ideal, it seems to me, is wrong for a number of reasons. It is shamelessly anthropocentric. It suggests that animals should be extinguished for the sake of humans' moral purity. Would that moral purity not be better served by letting humans die out?"
+
+142:  "Freedom, then, is an athropocentric illusion of shamelessness that is blind to the unfreedoms that also determine human lives."
+
 Chapter 9: 'And Toto Too': Animal Studies, Posthumanism, and Oz
 ---
+
+149:  "we should understand posthumanism not as the death of humanism, but as a necessary rethinking of humanist frameworks, including rethinking what thought is, what agency and autonomy are, in order to further humanism's noble aims."
