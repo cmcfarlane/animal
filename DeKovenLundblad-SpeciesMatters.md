@@ -48,13 +48,43 @@ Chapter 4: Archaeology of a Humane Society: Animality, Savagery, Blackness (Mich
 
 	Citing Roswell C. McCrae, *The Humane Movement*, 1910/1969.
 
-87:  "the capacity for *either* humane or inhumane behavior is seen as a sign of difference from those savage groups that have not yet evolved this capacity."
+87:  "the capacity for *either* humane or inhuman behavior is seen as a sign of difference from those savage groups that have not yet evolved this capacity."
 
 Chapter 5: What Came Before *The Sexual Politics of Meat*: The Activist Roots of a Critical Theory (Carol J. Adams)
 ---
 
+117:  "*The absent referent* … isn't that what animals are too? Politicized, the term defined animals consumed as meat and recognized the tension between presence/absence and living/dead. Without animals, there would be no meat eating, yet they are absent from the act of eating meat because they have been transformed through violence into food. Behind every meal of 'meat' is an absence: the death of the animal whose place the 'meat' takes. The absent referent is that which separates the flesh eater from the animal and the animal from the end product. The function of the absent referent is to allow for the moral abandonment of a being while also emptying violence from language. *Hamburger, pork loin, drumstick*--there is no 'who' in these words, so how can there be a being who has been harmed?"
+
+117: "a structure of overlapping but absent referents links violence against women and animals."
+
+118:  "Consumption is the fulfillment of oppression, the annihilation of will, of separate identity."
+
+119:  "When humans turn a nonhuman into 'meat,' someone who has a very particular, situated life, a unique being, is converted into something that has no distinctiveness, no uniqueness, no individuality."
+
+126:  "When people learn I am vegan or the author of *The Sexual Politics of Meat*, they react with such vehemence and accuse me of not caring for (1) abused children, (2) the homeless, (3) the hungry, (4) battered women, (5) the environment, and (6) workers, among many other things."
+
+127:   "I believe we need a name for the reactions of people who start accusing animal activists of neglecting some form of human suffering when they learn we are vegan. I propose 'retrograde humanism.'"
+
 Chapter 6: Compassion: Human and Animal (Martha C. Nussbaum)
 ---
+
+140:  "anthropodenial, a uniquely human tendency, is not simply a pernicious intellectual position; it is a large cause of moral deformity."
+
+142:  "Most discussions of the relationship between humans and animals, where empathy and compassion are concerned, focus on two things: *continuities* between human and animal emotion and *good discontinuities*, meaning discontinuities in which we humans have something morally valuable that animals don't have."
+
+146:  "there is a judgment of *seriousness*: in experiencing compassion, the person who feels the emotion thinks that someone else is suffering in some way that is important and non-trivial."
+
+146:  "the judgment of *non-fault*: we typically don't feel compassion if we think the person's predicament chosen [is?] chosen or self-inflicted."
+
+147:  "the judgment of *similar possibilities*. The person who has compassion often does think that the suffering person is similar to him- or herself and has possibilites in life that are similar."
+
+147:  "*eudaimonistic judgment*. THis is a judgment or thought that places the suffering person or persons among the important parts of the life of the person who feels the emotion."
+
+148:  "Empathy is not sufficient for compassion, for a sadist may have considerable empathy with the situation of another person and use it to harm that person."
+
+156:  "No other animal has this problem [anthropodenial]: no animals hates being an animal, wishes not to be an animal, tries to convince itself that it is not an animal."
+
+161:  "Anthropodenial is thus linked with an aggressive and potentially violent misogyny, and it is in relations with women, far more than relations with subordinate ethnic or racial groups, that the anxiety about the unmasking of the lie becomes most prominent."
 
 Chapter 7: Down With Dualism! Two Millennia of Debate About Human Goodness (Frans de Waal)
 ---
