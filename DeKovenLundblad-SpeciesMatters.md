@@ -89,8 +89,40 @@ Chapter 6: Compassion: Human and Animal (Martha C. Nussbaum)
 Chapter 7: Down With Dualism! Two Millennia of Debate About Human Goodness (Frans de Waal)
 ---
 
-Addendum to Down With Dualism
+180:  "Like Huxley, these authors [e.g., Dawkins] want to have it both ways: human behavior is an evolutionary product except when it is hard to explain. And like Hobbes and Frued, they think in dichotomies: we are part nature, part culture, rather than a well-integrated whole."
+
+182:  "Instead of seeing morality as a radically new invention [of human civilization alone], I tend to view it as a natural outgrowth of ancient social tendencies."
+
+183:  "Moral emotions, in contrast, are disconnected from one's immediate situation: they deal with good and bad at a more abstract, disinterested level. It is only when we make general judgments of how *anyone* ought to be treated that we can begin to speak of moral approval and disapproval. This is an area in which humans go radically farther than other primates."
+
+Addendum to Down With Dualism! Two Millennia of Debate About Human Goodness (2010)
 ---
+
+191:  "Some students of animal behavior go so far as to call animals 'moral,' whereas scholars in the humanities generally draw a sharp line and exclude animals from having moral tendencies."
+
+191:  "Thus far, this capacity for disinterested judgment (i.e., moral judgment of actions that have no implications for oneself) has not been demonstrated in any nonhuman animal."
 
 Chapter 8: Avoid Being Abstract When Making Policies on the Welfare of Animals (Temple Grandin)
 ---
+
+196:  "To make change take place, I had to convince the managers that calmer, gentler methods would be an economic benefit, by proving better animal weight gain, bruise reduction, and fewer accidents. Ethical reasons alone were not sufficient to convince the manager to change the practices."
+
+197:  "Half the cattle in North America are handled with equipment I have designed."
+
+199:  "I concluded that I should work to get rid of the practices used in the bad places and promote the practices used in the good places."
+
+200:  "I have observed that the most extreme and abstract ideologies on animal issues come from people who has lost touch with what is actually happening to the animals."
+
+203:  "I like to read literature that is more objective and less biased."
+
+204:  "There is no point in the continuous bashing of the livestock industry by animal activists that will retard marking reform."
+
+206:  "Most important, if we are going to use animals for food, the animals must be given a decent life."
+
+206:  Quoting herself from *Animals Make Us Human*: "We provide the farm animals with food and housing and in return, most of the offspring from the breeding cows on the ranches are used for food. […] None of the cattle that were at this slaughter plant would have been born if people had not bred and raised them. They would never have lived at all. People forget that nature can be very harsh, and death in the wild is often more painful and stressful than death in a modern plant. [...] If I had a choice, going to a well-run modern slaughter plant would be preferable to being ripped apart alive."
+
+213:  "People are also omnivores, so eating meat is a natural thing to do. Most prehistoric people ate meat."
+
+213:  "After much long & hard thought, I have come to the conclusion that advocates for animal rights will call me speciesist because I value the human species more than other animals."
+
+214:  "My response is that human life must be preserved because human life is precious. It has higher moral value because it is our own species."
