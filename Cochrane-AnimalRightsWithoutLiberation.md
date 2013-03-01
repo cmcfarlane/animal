@@ -71,6 +71,44 @@ Chapter One: Introduction
 Chapter Two: Animals, Interests, and Rights
 ---
 
+21:  "the notion that sentient animals possess moral status involves at least two separate assumptions. The first is that there *are* some animals with sentience. The second is that those animals with sentience have the necessary characteristic for moral status."
+
+21-4:  Evidence in favour of animal sentience: behavioral (act as though they are responding to stimuli), neurological (possess the same basic equipment as humans), mental experience (to consciously act upon previous two). Seems likely that all vertebrates (mammals, birds, fish, reptiles, and amphibians) possess these free characteristics. In the case of insects, arachnids, crustaceans, molluscs, and cephalopods, there is little evidence that they are both capable of feeling pain and are conscious. 
+
+24:  "Sentience signifies that an entity has the capacity for well-being."
+
+24-8:  Despite sentience and connection to capacity for well-being, some deny that animals have welfare interests, a concept which is rightly limited to humans. Three general grounds for this claim. First, religious (e.g., *imago Dei*). Second, unique capacities possessed by humans; viz., moral agency and autonomy. Problem, of course, is that not all humans possess these capacities and we deem them to be morally significant even when they don't. Third, even if the point about human non-persons is accepted, some (e.g., Cohen & Fox) defend their moral status on the grounds of kind--they belong to the humankind even if they do not possess the ordinary characteristics of the kind. However, there are no grounds specified for why *human* kind is the relevant kind and not the kind constituted by the living, the sentient, the organic, etc.
+
+28:  "In light of all this, the interesting question is not *whether* we have obligations to sentient nonhuman animals, but just *what* obligations we have to them."
+
+28-9:  "The argument of this book is that just as well-being is the necessary and sufficient condition for the possession of moral status, so it is the necessary and sufficient condition for the possession of rights."
+
+	There are a number of possible objections to the view that interests confer rights in the case of animals.
+	
+30:  Moral agency is required--however, this does not work in marginal cases, which is perverse. That is, moral agency resides in reciprocity (right<=>duty) and capacity for both elements must be present in order to speak of moral agency. 
+
+32:  Relation--rights do not reside *in* individuals, but in the relations *between* individuals. "To assign rights outside the context of meaningful social relations, it is argued, is implausible." But, the argument is not comprehensive. For instance, some rights are said to obtain even when there are no social ties or social ties of sufficient density. Thus, the objection cannot be about rights as such, but about the content of rights in a given context. Close relations can reinforce rights claims, but a lack of close relations does not negate rights. Position associated with Elizabeth Anderson.
+
+34:  Lack interests--while animals have welfare (can suffer or thrive), they do not have an interest in their life going one way or the other because they cannot form concerns about the course of their life. Position associated with RJ Frey and HJ McCloskey.
+
+36:  Interests beyond sentience--not clear how Cochrane imagines this as an argument against animals having interests because this view ascribes interests beyond sentient animals to plants and inanimate objects. Cochrane seems to take this as a *reductio* (if cups have interests, then the concept is meaningless, therefore animals have no interests). But, Matthew Kramer, who Cochrane is quoting, does not intend for his argument to be a *reductio*, but a necessary conclusion.
+
+37:  "This section leaves aside the issue of whether it is ludicrous to assign rights to plants and inanimate objects. That question is immaterial because quite simply it is a serious mistake to see plants and inanimate objects as possessors of interests."
+
+39:  Protection of interests can be taken up in two possible ways: utilitarian maximization of interests or recognition of rights. 
+
+40:  The problem with utilitarianism is well-known: ""*individual* well-being can and ought to be sacrificed should it lead to higher *aggregate* well-being."
+
+41:  "Using rights immediately recognizes that there are limits to what can be done to the individual in the name of aggregate well-being."
+
+41:  Grounding rights in interests is more satisfactory than other versions of rights as moral rights; e.g., Regan's theory. "there is no plausible means of explaining where moral rights come from and how they are justified."
+
+42:  "having an interest in something does not mean that one automatically has a right to that thing. […] to have a right the interest must be *suffucient* to give grounds for holding another to be under a duty."
+
+43:  "it is an approach that uses moral reasoning to come up with a set of legal rules that political communities ought to enforce."
+
+45:  "An interest-based approach can deal effectively with conflicts of rights if it employs the distinction between prima facie and concrete rights. Prima facie rights are those rights that exist at a more abstract level outside of specific circumstances. In effect, then, prima facie rights are not 'all things considered' rights, but rights that are established via a more general judgment about whether an interest is sufficient to impose a duty on another. Crucially for our purposes, prima facie rights can meaningfully conflict and will inevitably conflict. Concrete rights, on the other hand, do not conflict. Concrete rights are 'all things considered' rights and are established by close attention to specific circumstances of any particular case. These rights consider every detail of a situation to judge whether an interest is sufficient to impose a duty on another. Concrete rights resolve conflicts between prima facie rights and have peremptory force--finally determining what ought to be done."
+
 Chapter Three: Animal Experimentation
 ---
 
