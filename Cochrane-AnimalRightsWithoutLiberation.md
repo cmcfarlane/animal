@@ -112,6 +112,42 @@ Chapter Two: Animals, Interests, and Rights
 Chapter Three: Animal Experimentation
 ---
 
+51:  Introduces distinction between "therapeutic" and nontherapeutic" animal experimentation. The former comprise biomedical experimentation and "includes those procedures that are carried out to research diseases and biological processes, to develop new drugs, and to test drugs for safety." The latter "includes those procedures that are carried out for general biological research, for educational purposes, and for the testing of household products and cosmetics on animals." Genetic engineering is treated in a separate chapter.
+
+52:  "whether animals possess an interest that is sufficient, all things considered, to impose a moral duty on us not to experiment on them."
+
+52:  "animal experiments that result in pain or death are morally illegitimate, while painless experiments in which the animal does not die are permissible, all else being equal."
+
+53:  "two broad criteria that determine the strength of an interest: the value of the particular good to the well-being of the individual; and the level of psychological continuity between the individual now and when the good or goods will occur."
+
+53-4:  criteria for determining strength of interest: "value to the individual in question" (but, "should not be taken from this understanding of interests that they are purely subjective"); "the relationship between the individual at the time when we attribute the interest and the individual when that interest will be satisfied" (Jeff McMahan's "psychological continuity").
+
+54:  "a future good will provide more value to an individual the more that he or she can identify with the future self who receives that good."
+
+56:  Because of the strength of this [not to suffer] interest, there is good reason to acknowledge that animals, like humans, have a prima facie right not to be made to suffer. What I mean by this is that sentient animals can be considered to possess a *general* right not to be made to suffer."
+
+57:  While there is a prima facie right not to be made to suffer, this does not imply that there is a necessary concrete right not to be made to suffer. This could be argued on three grounds: the benefits of the experiment outweigh the suffering imposed; obligations to humans override obligations to animals; or that human life is simply more valuable than non-human life.
+
+57:  The first counter-argument can only apply to therapeutic experimentation and never to nontherapeutic experimentation if it is to remain coherent for the simple reason that the benefits conferred by curing disease (for instance) outweigh the benefits conferred by better smelling cleaning products (for instance). 
+
+58:  "animal experiments may provide widespread therapeutic benefits *and* be morally impermissible." Even if we assume that medical experimentation can and does provide benefits, this is not sufficient to legitimate animal experimentation. But, it is important to note that if experiments of this sort on *animals* confer great benefits, directly performing the experiments on *humans* would confer even greater benefits. However, no one deems this to be legitimate despite the obvious potential gains.
+
+64:  While it is clear that animals have an interest in not being made to suffer in experimentation, it doesn't necessarily follow that animals have an interest in not being killed in experimentation. This depends upon animals having an interest in continuing lives. Thus, it is conceivable that if anesthetized and painlessly killed, then animal experimentation would be permissible.
+
+65:  Suffering and being dead are two different states. There is a feeling associated with suffering; there is no possible feeling associated with being dead because feelings are not properties of the dead.
+
+66:  "[animal rights] philosophers tend to argue that death harms sentient animals because it forecloses their opportunities for future valuable experiences."
+
+67:  "the animal interest in continued life is weaker than that of human persons for three reasons: animals lack the capacity to take immediate satisfaction from the prospect of continued life; they do not possess future self-chosen goals and projects to pursue; and they possess weaker psychological continuity with their future selves."
+
+69:  "We are thus effectively left with two choices. First, we could simply conclude that it is legitimate to conduct painless but deadly experiments on *both* animals and humans who lack these capacities. However, even utilitarians, aiming to maximize overall welfare, balk at embracing such conclusions. And no doubt almost all of us would regard this option as too costly to embrace. Alternatively, then, we might have to conclude that the interest in continued life of both humans and non-humans is sufficiently strong to ground in us a duty not to kill them by experimentation."
+
+71:  "perhaps animals have a more general interest in not being experimented upon: perhaps they have an interest in not being *used* in experimentation."
+
+73:  "nonconsensual interference, constraint, and use are not *in themselves* harmful to animal nonpersons, as they are for human persons."
+
+78:  "If scientists experiment on animals in ways that cause no pain and that do not end in death, then such experiments are permissible."
+
 Chapter Four: Animal Agriculture
 ---
 
