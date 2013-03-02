@@ -186,6 +186,20 @@ Chapter Five: Animals and Genetic Engineering
 
 117:  "First, animals possess the right not to have been engineered with lives that are so full of suffering that their lives are not worth living. This right imposes strict limitations on engineering, particularly given the somewhat random nature of the technology as it currently stands. Second, animals possess the right to have been engineered with 'sufficient' opportunities for well-being, where sufficient is defined as similar to those possessed by ordinary members of their species."
 
+118:  "Adopting a 'precautionary principle' seems apt when we are embarking on such radical alterations of sentient beings."
+
+118:  "The onus must be on engineers to prove that their actions will not cause lives of intolerable suffering for the engineered animals."
+
+	Is *intolerable* really the right criterion in this context? Mild? Horrible? Moderate? These are all acceptable?
+	
+119:  "If animals are engineered with diseases but with lives that are minimally worth living, then it might be hard to see how any of their rights have been violated."
+
+119:  "we cannot say that these animals engineered animals have either an *interest* or a *right* in not having been engineered with diseases or disabilities."
+
+122:  "an individual can be harmed by an action, even if that action leaves him or her no worse off."
+
+122:  "Although animals are not made worse off for having been engineered with diseases or disabilities, they have nevertheless been harmed."
+
 Chapter Six: Animal Entertainment
 ---
 
