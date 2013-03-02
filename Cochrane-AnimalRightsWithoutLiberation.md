@@ -151,6 +151,24 @@ Chapter Three: Animal Experimentation
 Chapter Four: Animal Agriculture
 ---
 
+79:  "the most regular and direct contact many of us have with animals comes through eating their flesh, their milk, and their eggs."
+
+80:  "animals have concrete rights not to be killed or made to suffer when being raised for food. This, of course, has radical implications for agricultural policy: it implies that raising animals for food can only ever be permissible when it does not cause animals suffering and does not result in killing them."
+
+83:  "No quality of life is available to animals who suffer the horrors of intensive farming practices. As such, it can only be concluded that animals have an interest in not suffering that is sufficient to impose a duty on us not to intensively farm them."
+
+84:  "the human interest in being free to eat animals is only trivial. In contrast, the animal interest in continued life is fundamental."
+
+85:  "I think it is only reasonable to concede that there is a price to be paid for shutting down the meat industry."
+
+86:  "So if we are to raise animals for their milk and eggs permissibly, it is necessary that we raise them in accordance with their well-being. This will require an end to intensive farming practices and will result in more expensive dairy products."
+
+100:  Quoting Gaverick Matheny, "Least Harm": "crop production uses less than half as many hectares as grass-fed dairy and one-tenth as many hectares as grass-fed beef to deliver the same amount of protein." And, taking field animal deaths into account during sowing/reaping, kills fewer animals in total than other systems of agriculture.
+
+101:  "it is consistent to say that livestock animals have a right not to be killed by us in agriculture, but that field animals do not."
+
+102:  "reflection over the best agricultural policy in terms of animal deaths cannot be detached from questions about the ever-expanding numbers of humans on the planet."
+
 Chapter Five: Animals and Genetic Engineering
 ---
 
