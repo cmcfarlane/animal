@@ -172,6 +172,20 @@ Chapter Four: Animal Agriculture
 Chapter Five: Animals and Genetic Engineering
 ---
 
+103:  "genetic engineering is a technique primarily employed in medical experimentation and in agriculture: to model particular genetic diseases, and to select certain traits that are desirable for farmers."
+
+104:  "Rights are properly established by an assessment of the current and existing interests of individuals--not on the basis of their potentiality."
+
+104:  "the relevant question under consideration in this chapter is whether animals have a moral right not to *have been* engineered."
+
+105:  "animals have no interest in not having been engineered with opportunities for well-being equivalent to or higher than ordinary members of their species. As such, engineering that affords engineered animals these types of opportunities is ordinarily permissible."
+
+	Does this mean that animals have an interest in being genetically engineered if it improves their well-being beyond that of ordinary members of their species?
+	
+115:  "Since it contributes nothing to their well-being, dogs have no interest in having been created with a wagging tail."
+
+117:  "First, animals possess the right not to have been engineered with lives that are so full of suffering that their lives are not worth living. This right imposes strict limitations on engineering, particularly given the somewhat random nature of the technology as it currently stands. Second, animals possess the right to have been engineered with 'sufficient' opportunities for well-being, where sufficient is defined as similar to those possessed by ordinary members of their species."
+
 Chapter Six: Animal Entertainment
 ---
 
