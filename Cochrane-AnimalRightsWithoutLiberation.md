@@ -203,8 +203,48 @@ Chapter Five: Animals and Genetic Engineering
 Chapter Six: Animal Entertainment
 ---
 
+128:  "animals have no right not to be used for our entertainment but do have the rights not to be killed or made to suffer when being so used. As such, this section argues that political communities are under no obligation to abolish all the ways in which they use animals for entertainment but do have to radically overhaul those practices in order to make them permissible."
+
+131:  "If it is correct that animals have a concrete moral right not to be killed or made to suffer through their use as pets, then pet keeping must be regulated much more rigorously than it is in contemporary political communities."
+
+	For instance, licencing or "background checks" comparable to those adoptive parents of humans must go through.
+
+135:  "so long as the parent animals are not made to suffer in the process, there can be nothing wrong in itself with creating animals through more conventional breeding."
+
+135:  "animals have a moral right to have been bred with sufficient opportunities for well-being."
+
+136:  Summary of requirements for pet licences: "they prove that they have sufficient time, resources, and understanding to maintain the well-being of the particular animal in question; they take out pet insurance in case of disease or accident; and they agree to take responsibility for the well-being of any offspring that are produced as a result of accidental mating or deliberate breeding."
+
+	Oddly, does not address the issue of pet diets: i.e., cats are natural carnivores and dogs are natural omnivores. Given that we bring pets into the world intentionally, we have a conflict between obligations to pets (provide food) and obligations for "agricultural" animals (not use them as food). While the issue is different in terms of wolf/deer (wolf has right to eat deer; we have no obligation to interfere), Cochrane maintains that there is an obligation to keep cats indoors so as to disallow them to kill small animals and birds--some of which they may eat. 
+	
+152:  "it is not ordinarily permissible to take possession of an animal existing in the wild."
+
+152:  "the transfer of possession of animals should be much more restricted than is currently permitted."
+
 Chapter Seven: Animals and the Environment
 ---
+
+156:  "our environmental obligations should not be founded on a 'biocentric' ethic that assigns moral status and rights to all living entities. Instead, the chapter proposes a 'welfare-centric' ethic that delineates our environmental obligations from the interests and rights of individual sentient beings."
+
+156:  "In philosophical terms, mainstream environmentalism is clearly 'anthropocentric.' That is, politicians, activists, and the public have become increasingly concerned about such issues as pollution, climate change, and resource depletion because of the threats and harms they pose to human beings."
+
+157:  "first, that nonconscious entities such as plants, species, and ecosystems cannot possess interests; second, that these same entities do not possess moral status; and finally, that a full and demanding account of our moral obligations concerning the environment can be arrived at from a theory based on the interests and rights of sentient individual animals."
+
+158:  "For although events can make the biological functioning of plants better or worse, nothing can make life better or worse *for the plants themselves*."
+
+158:  "No nonconscious entity such as a plant, species, or ecosystem can posses interests under this account; and thus no such entity can possess moral status or rights."
+
+159:  "This is where conscious experience becomes so important for the possession of interests: not to have the capacity to be consciously interested in a good, but to have the capacity to *experience the benefit* of that good."
+
+162:  "the well-being of sentient individuals is absolutely dependent on the health of nonconscious nature."
+
+162:  "When formulating our obligations with respect to the environment, not only must the interests of human beings be accounted for, but so must the interests of all sentient creatures."
+
+163:  "[John] Hadley ingeniously proposes that nonhuman animals have property rights over their habitats."
+
+	Citing: Hadley, John. "Nonhuman Animal Property: Reconciling Environmentalism and Animal Rights." *Journal of Social Philosophy* 36 (2005): 305-15.
+	
+174:  "Therapeutic hunting generally refers to that form of killing animals that is done not for entertainment, trophies, subsistence, or cultural reasons, but to manage wildlife. Simply put, therapeutic hunting refers to those policies of killing wild animals that aim to prevent overpopulation and eradicate or minimize nonnative species."
 
 Chapter Eight: Animals and Cultural Practices
 ---
