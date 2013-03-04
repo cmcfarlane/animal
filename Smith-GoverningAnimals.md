@@ -37,6 +37,34 @@ xxv:  "The property status of animals does need some reform, but it is mass comm
 Chapter 1: Trials
 ---
 
+3:  "[the Endangered Species Act] codified a new ethical consensus that nonhumans can enjoy rights, or at least moral status."
+
+	Citing Roderick Nash, *The Rights of Nature*, University of Wisconsin Press, 1989.
+
+4:  "The development of our animal welfare laws has less to do with the expansion of our 'sphere of moral concern' than with the expansion of the liberal welfare state."
+
+9:  Discussing Francione: "If standing doctrine prevents animal welfare organizations from brining suit on behalf of animals, and animals themselves cannot be named as plaintiffs, then in many cases no one is in a good position to ensure aggressive enforcement of these statutes."
+
+11:  "Rather than affording legal protection to one's general, impersonal sympathy with or sense of justice toward animals, standing doctrine protects *social relationships between humans and animals*. And although the court is interested in the value of these relationships to humans, it is not implausible that this recognition could also be the basis for finding that some animals, at least, are legal 'persons': They are persons to us because we relate to them as members of our social community."
+
+13:  "For ethical extension to work as social theory, it seems that something like the state or economic system must determine the bounds of the community and, accordingly, our ethical sentiments."
+
+13-4:  "What *drives* ethical extension? Does the state play a role in expanding the moral community, or does public policy simply follow changing public sentiment? Should we look to other large-scale social forces, like the economy, to explain this extension, or focus our attention on the individual level, asking why and how a human is moved to recognize obligations to nonhumans?"
+
+17: "we can identify four principal [sic] trends, from the late eighteenth through the twentieth centuries, that shaped the relationship of animals to the emerging American liberal welfare State and how we understand our ethical duties toward them: (1) the institutionalization (in animal welfare organizations, traditions of pet-keeping, and other practices) of a strong social ethic of kindness to animals; (2) the political organization of those with recreational interests in animals (particularly hunters, but also bird-watchers and outdoor enthusiasts), and the development of industries around those interests (such as gun manufacturing and tourism); (3) the increasing commodification and industrial production of animals (as markets for animal products and pets expanded); and (4) the expansion of the State's capacity to manage animals, principally in pursuit of military, economic, and public health objectives."
+
+22-3:  "Thus some of the State and social capacity to manage a large slave population is probably due to the Euroamerican settlers' experience with livestock management."
+
+23:  "More insidiously, this early concern with livestock breeds and patriotism foreshadows the later American obsession with racial purity (leading to miscegenation laws) and the early twentieth-century eugenics movements, both of which are also relevant to the racialization of the American State."
+
+25:  "the commodification of pet animals did not depend on or create a strong regime of property rights."
+
+26:  "In short, the animal welfare movement was an integral part of the development of the American welfare State, supported by a civil society pursuing a comprehensive ideal of humane behavior."
+
+27:  "historically speaking, receiving legal rights is not always the straightest path to receiving greater welfare protections."
+
+28:  "In some ways, the animal welfare movement has served to promote the more effective industrial exploitation of animals."
+
 Chapter 2: Contracts
 ---
 
