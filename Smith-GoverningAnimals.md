@@ -100,6 +100,42 @@ Chapter 2: Contracts
 
 51:  "The problematic assumption here is that sole purpose of the social contract is to protect individual human autonomy."
 
+52:  "Liberal theorists emphasize that we value human freedom because it allows us to create and follow a life plan, an experience that seems to be essential to our happiness. It is possible that all animals can be happy without that sort of autonomy, that they are capable of being 'happy slaves.'"
+
+53:  "those animals that the human parties to the social contract recognize as having welfare or liberty interests (for the limited political purpose of designing a just regime) may properly be included in the social contract."
+
+53:  "This category, we should note, includes domesticated animals, even though they would seem to be closest to a creature 'naturally' under human dominion. Many domesticated animals exist in their current form only because humans bred them and maintain them for human use. But domestication does not make animals 'naturally' subject to humans."
+
+53:  "Domestication renders us *interdependent*, not inherently unequal. This interdependence creates the *risk* of political subordination, which is precisely why we need the social contract: to authorize political relationships where no natural dominion exists."
+
+55:  "the main point of social contract theorists is that life in the wild isn't desirable for humans, either."
+
+55:  "membership in the social contract is limited to animals with whom we have social relationships, like pets and livestock."
+
+59:  "A thoroughgoing animal rights ethic might lead us to include all animals, or at least all sentient animals, as well. Environmental theorists, taking this logic even further, sometimes argue that all beings that might be harmed by our policies (including, potentially, animals, ecosystems, and future generations) should be considered members of the political community."
+
+61:  "debates about which animals should be treated as members of the social contract are prime opportunities for minority views to be aired and to influence our public philosophy"
+
+62:  "contract theory addresses the duties that arise out of a community's *political* relationship with the animals under its jurisdiction, so we only need to include animals with whom we have or want to have a political relationship. A political relationship may be established when the state governs animals directly (when government officials use animals to perform official functions or directly manages the animal population) and indirectly (by specifying what private individuals may do to animals."
+
+	Note: *we*. Standard *always* remains anthropocentric.
+
+62:  "Nevertheless, the line between member and nonmember of the political community doesn't track perfectly the line between regulated and unregulated."
+
+63:  "Under these guidelines, we can conclude that some animals are currently members of the social context (understanding that the boundaries of the community are always in flux). Pets like dogs and cats are prime examples. Commensal animals, such as the birds who visit our birdfeeders, might also qualify for membership. Pests, by contrast, are not members: Their interests cannot, by definition, be harmonized with ours, and therefore they are not properly speaking engaged in a scheme of social cooperation with us. Politically speaking, pests are our enemies, so our laws do not have to take their interests into account."
+
+63:  "Between pets and wild animals fall two hard cases: livestock and feral animals. I have already claimed that livestock are members of the social contract. They live with us in close relations of interdependence and mutuality, and […] livestock have historically received the highest level of government protection."
+
+64:  "Cows and chickens do not need the same sort of autonomy to flourish; indeed, they *can't* flourish without our care. I don't deny that domesticated animals enjoy something like natural liberty, a way of life that is distinctively their own. But that way of life is not incompatible with the practices of animal husbandry. On the contrary, it *assumes* animal husbandry. If we 'freed' livestock, most of them would simply die off. And if we didn't eat them, we would have no reason to raise cattle, hogs, poultry, and other livestock. Some feral populations might survive emancipation, but most domesticated species would disappear altogether."
+
+64:  "So I think it is a mistake to say that farmers who scrupulously attend to their livestock's physical and social needs are treating these animals as slaves or mere resources. Bad farmers, and particularly those involved in  large-scale industrial livestock production, treat their animals as mere things or commodities. But good farmers treat their livestock as *livestock*. They engage in well-developed social practices of animal husbandry, practices integral to our development as humans and to livestock's development as domesticated animals."
+
+65-6:  "What should we do when faced with competing moral intuitions like this, both of them plausible? I suggest that we ask ourselves, Which group seems more admirable? With whom would you rather be aligned? I'm inclined to choose the farmers over the animal rights advocates, at least in this case. People who raise livestock in this intimate, responsible, and humane manner commit themselves to a difficult and demanding job, and they make very little money for it. It doesn't make sense that they would choose this work just because they like to eat meat; they are not simply offering rationalizations for their diet. They choose this work *and* this diet because they like to raise animals. By contrast, the opposing view--that we must end livestock production altogether--does sound rather self-serving to me. Instead of preserving an ancient social practice that brings us into a deeply meaningful and demanding relationship with animals, these advocates want to get rid of that relationship *and the animals that are part of it*. […] This [killing animals to preserve human traditions], I think, is the harder ethical choice. In my view, it is the more admirable one."
+
+66:  "If we are going to use animals for our ends, we must care for them as though we are being held to a particularly demanding contract that serves their independent interests as well as ours."
+
+69:  "A final point, and a major difference between my approach and the arguments of the more radical animal rights advocates, is that the social contract I describe in this chapter does not aim at protecting the autonomy of individual animals by recognizing their natural rights. Rather, it aims at protecting individual animal welfare by protecting good human/animal *relationships*. The best protection for animal welfare is to promote these relationships by supporting good practices of animal husbandry and stewardship."
+
 Chapter 3: Property
 ---
 
