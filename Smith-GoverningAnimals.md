@@ -68,6 +68,38 @@ Chapter 1: Trials
 Chapter 2: Contracts
 ---
 
+37:  "It is not clear that liberal governments have the right to use public resources to promote the welfare of nonhumans for their own sake. Under traditional liberal theory, the government's job is limited to promoting *human* welfare."
+
+38:  "It is one thing to accomodate private relationships with pets; it is quite another to punish a citizen for failing to satisfy the government's view of how pets should be treated."
+
+40:  "Why, then, do government actors insist on citing *human* interets in animal welfare?"
+
+40:  "The difficulty faced by legislators and judges confronting animal cruelty is this: Cruelty towards animals may be morally repugnant, but it doesn't follow that the state has authority to prevent it."
+
+40:  "If the purpose of government is to protect *human* welfare and freedom, on what grounds does the government restrict our freedom to treat animals any way we please?"
+
+	It could very well be the case that under liberalism, this is the purpose of government. But, if liberalism is not able to include non-humans in its political theory and it is a clear ethical imperative that it does, then either liberalism has a faulty concept of government, or it has a faulty concept of the scope of government, or liberalism as such is incorrect.
+	
+41:  "My answer--the only answer, I suggest, that makes sense in light of the liberal tradition and the practices of modern liberal communities--is that some animals are in fact members of the community that the government is bound to protect. In other words, they are members of the liberal 'social contract.'"
+
+41:  "If animal welfare laws aren't justified in liberal theory, that is not a problem for the animals; it is  problem for liberal theory."
+
+45:  "Social contract theory holds that governments are created by the consent of the people as part of a (usually implicit) social contract among citizens."
+
+47:  "The question here is whether our obligations toward animals are *public* duties, responsibilities carried not only by private individuals but also by the government and ourselves in our role as citizens."
+
+48:  "Social contract theory is helpful to us because it focuses our attention on critical questions with regard to animals: Which animals are members of the social and political community? How do the rules and institutions we use to govern them affect their welfare? And, most important, what do our rules and institutions look like from the animal's point of view?"
+
+48:  "If you have significant social relations with other member of the community, you're a member."
+
+49:  "Viewing (some) animals as members of the social contract is consistent with and makes sense of most of our laws, our widespread social practices, our typical ways of talking about animals in public discourse, and well-documented measures of public opinion."
+
+49:  "Welfare, and particularly the welfare of animals, can be understood fairly narrowly: taking care of animals' health, preventing undue suffering, and attending to their needs for sociality."
+
+	Notes that most major texts of contemporary social contract theory exclude animals as a matter of course. Cites Rawls, *Political Liberalism*, 18 as excluding animals; Scanlon, *What We Owe to Ourselves*, 110, 129, 180-1 as excluding animals other than pets; but Rowlands,  *Animal Rights*, is contractarian, as is Matthew Talbert, "Contractualism and Our Duties to Nonhuman Animals," *Environmental Ethics 28 (2006): 201-15. Others include Donald Vandeveer, "Of Beasts, Person, and the Original Positin," *Monist* 62 (1979): 368-77; Michael Pritchard and Wade Robison, "Justice and the Treatment of Animals: A Critique of Rawls," *Environmental Ethics* 3 (1981): 55-61; Robert Elliot, "Rawlsian Justice and Non-Human Animals," *Journal of Applied Philosophy* 1 (1984): 95-106; and Brent Singer, "An Extension of Rawls's Theory of Justice to Environmental Ethics," *Environmental Ethics* 10 (1988): 217-31.
+
+51:  "The problematic assumption here is that sole purpose of the social contract is to protect individual human autonomy."
+
 Chapter 3: Property
 ---
 
