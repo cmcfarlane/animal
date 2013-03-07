@@ -178,6 +178,28 @@ Chapter 3: Property
 Chapter 4: Representation
 ---
 
+99:  "Democratic government of a mixed human/animal community seems to require that nonhuman animals receive political representation."
+
+103:  "I argue that political representation of animals does pose some challenges for liberal regimes; it requires us to develop novel ways to authorize representatives and to hold them accountable. But representation of animals is possible, and not only in theory. […] better representation of animals, along with other vulnerable members of our community, could help us better to realize *human* freedom."
+
+103:  "Surely all members of the political community who may be affected by political decisions ought to be represented in the decision-making process."
+
+104:  "The problem with representing animals is not that we lack adequate knowledge of their interests. The problem is that they cannot participate, as it were, in their own defense."
+
+104:  "'Representative government' generally means that the citizens have some control over what government does. That is, in fact, the main point of representation."
+
+107:  "those who speak for animals in the political process constitute the political community as including animals. In other words, they make animals visible in the political arena."
+
+108:  "Claims that are persuasive and politically effective must resonate with the audience; they must be made from existing terms and understandings. So these claims about animals' interests cannot be wholly divorced from our everyday relationships with animals, our experiences of taking care of them and watching them suffer or flourish."
+
+108-9:  "political representation is an important means of *constructing* a social contract that includes animals."
+
+114:  "The rationale for creating institutionalized representation for animals that (1) animals have independent welfare interests, interests that are not identical to and can't be reduced to the preferences of human animal lovers. And (2) because they can't participate in electoral politics, these interests are systematically underrepresented." 
+
+115:  "Particularly relevant to the representation of animals are *knowledge of* and *commitment to* the interests of the represented. But these criteria can be interpreted and fulfilled in different and not always predictable ways."
+
+117:  "In emphasizing such expert or practical knowledge, however, representatives could bring into question their commitment to animals' interests. First, this sort of scientific knowledge of animal welfare may seem abstract and objectifying. Scientific discourse about animal physiology often seems to reduce the animal to a mere pain- and pleasure-registering machine. Second, and even more problematically, such scientific knowledge of animals may mark someone as one of the exploiters. Grandin, after all, has spent a career working for the livestock industry, whose interests may lie in seeing less regulation on behalf of animal welfare. Game managers and animal trainers could be considered similarly compromised."
+
 Chapter 5: Reform
 ---
 
