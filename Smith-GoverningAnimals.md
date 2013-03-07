@@ -219,3 +219,13 @@ Chapter 5: Reform
 
 Conclusion
 ---
+
+159:-60  "This system of self-policing, public discussion, and education has created a common ground where the less radical animal welfare advocates can have productive conversations with the more enlightened scientists about alternatives to using animals, the scientific validity and usefulness of animal experimentation, and ways to better manage lab animals to protect their welfare."
+
+161:  "Under this view, the animal rights/animal welfare movements should aim not to end human domination of animals but to protect and maintain good institutions and sound practices of animal husbandry and companionship. Indeed our very concept of animal rights makes sense only against a background of animal husbandry and companionship."
+
+	In other words, animal rights movement should not seek to protect the rights of animals, but enable self-serving humans to find ostensibly kind ways to exploit animals.
+	
+165:  "First, we should begin from the premise that the subject of liberal political theory is not the isolated and autonomous human individual but ecological and socially interdependent beings: humans in relation to the nonhuman world. Our thinking about the state should begin from this ecologically grounded conception of the human political actor. A second principle is that maintaining the nonhuman world in good condition requires keeping that human/nonhuman relationship in good condition."
+
+	Assumes, of course, there is an important and sustainable distinction between the singluar human and the singular nonhuman. If this isn't a metaphysical assumption (which Smith decries), then I don't know what is.
