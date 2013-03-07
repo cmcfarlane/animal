@@ -134,10 +134,46 @@ Chapter 2: Contracts
 
 66:  "If we are going to use animals for our ends, we must care for them as though we are being held to a particularly demanding contract that serves their independent interests as well as ours."
 
-69:  "A final point, and a major difference between my approach and the arguments of the more radical animal rights advocates, is that the social contract I describe in this chapter does not aim at protecting the autonomy of individual animals by recognizing their natural rights. Rather, it aims at protecting individual animal welfare by protecting good human/animal *relationships*. The best protection for animal welfare is to promote these relationships by supporting good practices of animal husbandry and stewardship."
+69:  "A final point, and a major difference between my approach and the arguments of the more radical animal rights advocates, is that the social contract I describe in this chapter does not aim at protecting the autonomy of individual animals by recognizing their natural rights. Rather, it aims at protecting individual animal welfare by protecting good 
 
 Chapter 3: Property
 ---
+
+73:  "property theory is not well developed with respect to animals."
+
+73:  "I argue that the chief threat to animal welfare is not their property status per se but their commodification and mass production."
+
+80:  "one is capable of valuing something in a particular way, and thus of acting consistently with one's ideals in a way that makes sense to others, only in a setting that upholds norms for that mode of valuation."
+
+82:  "In fact, actions that end up benefitting an animal in some material way (like causing it to come into existence, a common result of creating markets in animals) may nevertheless be objectionable because they express an inappropriate valuation of the animal (for example, breeding Dalmations in order to harvest their hides for a fur coat)."
+
+82:  "killing a wild animal for food may be consistent with its social meaning and our best ideals of human/animal relationships"
+
+84:  "Recognizing an owner's property rights in an animal can be a way to improve its civic status by giving the human/animal relationship formal protection. Conversely, commodification of animals can take place even in the absence of strong property rights"
+
+85:  "Private ownership of domestic animals is best understood as a custodial arrangement, in which the owners' rights in the animal are subject to a general duty of care for its welfare."
+
+85:  "Moreover, it can be used for animals without doing violence to our traditional legal concepts; it fits neatly into the structure of American property law."
+
+	It is amazing that it seems the right of *legal concepts* to not have violence done to them trumps the right of animals to not have violence done to them.
+	
+87:  "When animals are treated as consumer goods and subject to the norms of the marketplace, economic efficiency supersedes consideration, and animal welfare suffers."
+
+90:  "Under this system [factory farming], the ideal animal would do nothing but reproduce and grow meat. It would a self-replicating commodity."
+
+90:  "I don't want to create the impression that large-scale producers don't care about the welfare of their animals."
+
+	Heaven forbid.
+
+92-3:  "Nevertherless, I am not advocating (as some animal rights advocates do) that we should terminate commerce in animals altogether. Commerce in animals is morally problematic only when it is institutionalized in such a way that such market norms are allowed to *predominate*."
+
+93:  "regulation might motivate the industry to come up with less expensive methods of production that still protect animal welfare."
+
+94:  "Such methods would, at most, most make meat and other animal products somewhat more expensive, leading us to eat less of it--perhaps with more appreciate for its true value."
+
+94:  "the liberal state respects individual autonomy and therefore does not seek to make its citizens live up to the highest standards of ethical conduct."
+
+94:  "The primary responsibility for promoting higher standards of behavior lies with the institutions of civil society." 
 
 Chapter 4: Representation
 ---
