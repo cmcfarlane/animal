@@ -24,22 +24,22 @@ xvii:  "The animal welfare movement has been remarkably successful in making app
 
 xxiii:  "Our question is whether we can protect animal welfare and promote enriching animal/human relations in a way that serves--or at least does not undermine--what we value in human liberty."
 
-	But, to be clear, the approach defended here maintains the priority of human interests over non-human interests even if there are no good reasons to maintain this priority?
+> But, to be clear, the approach defended here maintains the priority of human interests over non-human interests even if there are no good reasons to maintain this priority?
 
 xxiii:  "Most animal rights advocates emphasize similarities between human and nonhuman animals (sentience, reasoning, emotional life, and so on), and these similarities become the grounds for arguing for similar treatment under law and policy (like granting them rights). But that approach often leads animal rights activists to compare animal and human suffering, which in turn seems (to some) to trivialize human suffering. Should factory farms be compared to the Holocaust, and zoos to prison camps?"
 
 xxv:  "The property status of animals does need some reform, but it is mass commerce in animals, result in their commodification, that deserves our concern."
+	
+> Doesn't this say, in effect, that the problem with animals isn't that they are commodities; the problem with animals is that they are commodities. This doesn't make sense.
 
-	Doesn't this say, in effect, that the problem with animals isn't that they are commodities; the problem with animals is that they are commodities. This doesn't make sense.
-
-	Like Cochrane, Smith bases her argument on Raz's version of liberalism. However, it appears as though they come to significantly and importantly different conclusions.
+> Like Cochrane, Smith bases her argument on Raz's version of liberalism. However, it appears as though they come to significantly and importantly different conclusions.
 
 Chapter 1: Trials
 ---
 
 3:  "[the Endangered Species Act] codified a new ethical consensus that nonhumans can enjoy rights, or at least moral status."
 
-	Citing Roderick Nash, *The Rights of Nature*, University of Wisconsin Press, 1989.
+> Citing Roderick Nash, *The Rights of Nature*, University of Wisconsin Press, 1989.
 
 4:  "The development of our animal welfare laws has less to do with the expansion of our 'sphere of moral concern' than with the expansion of the liberal welfare state."
 
@@ -78,7 +78,7 @@ Chapter 2: Contracts
 
 40:  "If the purpose of government is to protect *human* welfare and freedom, on what grounds does the government restrict our freedom to treat animals any way we please?"
 
-	It could very well be the case that under liberalism, this is the purpose of government. But, if liberalism is not able to include non-humans in its political theory and it is a clear ethical imperative that it does, then either liberalism has a faulty concept of government, or it has a faulty concept of the scope of government, or liberalism as such is incorrect.
+> It could very well be the case that under liberalism, this is the purpose of government. But, if liberalism is not able to include non-humans in its political theory and it is a clear ethical imperative that it does, then either liberalism has a faulty concept of government, or it has a faulty concept of the scope of government, or liberalism as such is incorrect.
 	
 41:  "My answer--the only answer, I suggest, that makes sense in light of the liberal tradition and the practices of modern liberal communities--is that some animals are in fact members of the community that the government is bound to protect. In other words, they are members of the liberal 'social contract.'"
 
@@ -96,7 +96,7 @@ Chapter 2: Contracts
 
 49:  "Welfare, and particularly the welfare of animals, can be understood fairly narrowly: taking care of animals' health, preventing undue suffering, and attending to their needs for sociality."
 
-	Notes that most major texts of contemporary social contract theory exclude animals as a matter of course. Cites Rawls, *Political Liberalism*, 18 as excluding animals; Scanlon, *What We Owe to Ourselves*, 110, 129, 180-1 as excluding animals other than pets; but Rowlands,  *Animal Rights*, is contractarian, as is Matthew Talbert, "Contractualism and Our Duties to Nonhuman Animals," *Environmental Ethics 28 (2006): 201-15. Others include Donald Vandeveer, "Of Beasts, Person, and the Original Positin," *Monist* 62 (1979): 368-77; Michael Pritchard and Wade Robison, "Justice and the Treatment of Animals: A Critique of Rawls," *Environmental Ethics* 3 (1981): 55-61; Robert Elliot, "Rawlsian Justice and Non-Human Animals," *Journal of Applied Philosophy* 1 (1984): 95-106; and Brent Singer, "An Extension of Rawls's Theory of Justice to Environmental Ethics," *Environmental Ethics* 10 (1988): 217-31.
+> Notes that most major texts of contemporary social contract theory exclude animals as a matter of course. Cites Rawls, *Political Liberalism*, 18 as excluding animals; Scanlon, *What We Owe to Ourselves*, 110, 129, 180-1 as excluding animals other than pets; but Rowlands,  *Animal Rights*, is contractarian, as is Matthew Talbert, "Contractualism and Our Duties to Nonhuman Animals," *Environmental Ethics 28 (2006): 201-15. Others include Donald Vandeveer, "Of Beasts, Person, and the Original Positin," *Monist* 62 (1979): 368-77; Michael Pritchard and Wade Robison, "Justice and the Treatment of Animals: A Critique of Rawls," *Environmental Ethics* 3 (1981): 55-61; Robert Elliot, "Rawlsian Justice and Non-Human Animals," *Journal of Applied Philosophy* 1 (1984): 95-106; and Brent Singer, "An Extension of Rawls's Theory of Justice to Environmental Ethics," *Environmental Ethics* 10 (1988): 217-31.
 
 51:  "The problematic assumption here is that sole purpose of the social contract is to protect individual human autonomy."
 
@@ -118,7 +118,7 @@ Chapter 2: Contracts
 
 62:  "contract theory addresses the duties that arise out of a community's *political* relationship with the animals under its jurisdiction, so we only need to include animals with whom we have or want to have a political relationship. A political relationship may be established when the state governs animals directly (when government officials use animals to perform official functions or directly manages the animal population) and indirectly (by specifying what private individuals may do to animals."
 
-	Note: *we*. Standard *always* remains anthropocentric.
+> Note: *we*. Standard *always* remains anthropocentric.
 
 62:  "Nevertheless, the line between member and nonmember of the political community doesn't track perfectly the line between regulated and unregulated."
 
@@ -155,7 +155,7 @@ Chapter 3: Property
 
 85:  "Moreover, it can be used for animals without doing violence to our traditional legal concepts; it fits neatly into the structure of American property law."
 
-	It is amazing that it seems the right of *legal concepts* to not have violence done to them trumps the right of animals to not have violence done to them.
+> It is amazing that it seems the right of *legal concepts* to not have violence done to them trumps the right of animals to not have violence done to them.
 	
 87:  "When animals are treated as consumer goods and subject to the norms of the marketplace, economic efficiency supersedes consideration, and animal welfare suffers."
 
@@ -163,7 +163,7 @@ Chapter 3: Property
 
 90:  "I don't want to create the impression that large-scale producers don't care about the welfare of their animals."
 
-	Heaven forbid.
+> Heaven forbid.
 
 92-3:  "Nevertherless, I am not advocating (as some animal rights advocates do) that we should terminate commerce in animals altogether. Commerce in animals is morally problematic only when it is institutionalized in such a way that such market norms are allowed to *predominate*."
 
@@ -224,8 +224,8 @@ Conclusion
 
 161:  "Under this view, the animal rights/animal welfare movements should aim not to end human domination of animals but to protect and maintain good institutions and sound practices of animal husbandry and companionship. Indeed our very concept of animal rights makes sense only against a background of animal husbandry and companionship."
 
-	In other words, animal rights movement should not seek to protect the rights of animals, but enable self-serving humans to find ostensibly kind ways to exploit animals.
+> In other words, animal rights movement should not seek to protect the rights of animals, but enable self-serving humans to find ostensibly kind ways to exploit animals.
 	
 165:  "First, we should begin from the premise that the subject of liberal political theory is not the isolated and autonomous human individual but ecological and socially interdependent beings: humans in relation to the nonhuman world. Our thinking about the state should begin from this ecologically grounded conception of the human political actor. A second principle is that maintaining the nonhuman world in good condition requires keeping that human/nonhuman relationship in good condition."
 
-	Assumes, of course, there is an important and sustainable distinction between the singluar human and the singular nonhuman. If this isn't a metaphysical assumption (which Smith decries), then I don't know what is.
+> Assumes, of course, there is an important and sustainable distinction between the singluar human and the singular nonhuman. If this isn't a metaphysical assumption (which Smith decries), then I don't know what is.

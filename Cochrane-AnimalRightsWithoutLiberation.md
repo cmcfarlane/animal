@@ -15,9 +15,9 @@ Chapter One: Introduction
 
 1:  "While it is reasonable to suggest that there is a loose consensus that political communities can and ought to do much more for the well-being of both domesticated and wild animals, precisely what that 'more' requires is a subject of heated debate."
 
-	"Anti" position constitutes Peter Carruthers, Roger Scruton and Tibor Machan. They reject "animal rights" on the basis that animals are unable to claim rights nor are they able to respect the rights of others. This does not rule out moral *concern* for animals on the part of humans, but it does rule out granting this concern on the basis of rights.
+> "Anti" position constitutes Peter Carruthers, Roger Scruton and Tibor Machan. They reject "animal rights" on the basis that animals are unable to claim rights nor are they able to respect the rights of others. This does not rule out moral *concern* for animals on the part of humans, but it does rule out granting this concern on the basis of rights.
 	
-	"Pro" position constitutes Tom Regan, Gary Francione and Steven Wise. Rights are necessary "because they, and they alone, demand an end to all the ways in which animals are" used.
+> "Pro" position constitutes Tom Regan, Gary Francione and Steven Wise. Rights are necessary "because they, and they alone, demand an end to all the ways in which animals are" used.
 	
 2:  Argues that neither position is correct. Claims that animals have significant interests that entails duties on the part of humans (against anti), but this "does not include an animal right to be liberated."
 
@@ -31,13 +31,13 @@ Chapter One: Introduction
 
 5:  "when these twin principles of equal consideration and utility maximization are applied, policies that treat individuals differently will often emerge--but such differential treatment will be fair."
 
-	Reception of this was mixed. On the one hand, some found it went too far in breaking down barrier between humans and animals; on the other hand, others found that it did not go far enough because it does not categorically rule out exploitation of animals so long as both principles are met.
+> Reception of this was mixed. On the one hand, some found it went too far in breaking down barrier between humans and animals; on the other hand, others found that it did not go far enough because it does not categorically rule out exploitation of animals so long as both principles are met.
 	
 6:  "For according to Regan, the most basic of rights is the right to respectful treatment, and being treated respectfully means that one must never be used merely as a means to secure the best overall consequences."
 
 6:  "Regan's theory […] condemns every form of exploitation of animals that treats them solely as tools, instruments, or a means to improve overall consequences."
 
-	Thus, Singer "regulates" use with the view to (1) maximize utility so long as (2) equal consideration obtains; Regan rules out all use if it is limited to treament as mere means, but this in itself does not rule out all use necessarily. Hence, Francione's view that "*all" human uses of animals" must be abolished.
+> Thus, Singer "regulates" use with the view to (1) maximize utility so long as (2) equal consideration obtains; Regan rules out all use if it is limited to treament as mere means, but this in itself does not rule out all use necessarily. Hence, Francione's view that "*all" human uses of animals" must be abolished.
 	
 7:  "Crucially, an explanation of the dichotomy between a Singer-influenced 'welfarism' and a Regan-influenced 'rights position' has now become a necessary ingredient in any textbook, research monograph, course, or lecture on animal ethics."
 
@@ -49,23 +49,23 @@ Chapter One: Introduction
 
 9-10:  "Interests have to be identified, strengths of interests must be established, interests must be balanced against competing interests and values, and the burdens any putative right claim places on any potential duty-bearer must be assessed."
 
-	Hence, rights are neither self-evident nor natural. 
+> Hence, rights are neither self-evident nor natural. 
 	
 10:  "The argument of this book is that when we have a proper understanding of the interests of sentient animals, there is no reason to grant animals a right never to be used, owned, and exploited by human beings. Because the vast majority of sentient animals have no intrinsic interest in liberty, they possess no fundamental right to be free, and no fundamental right to be liberated."
 	
-	The problem here is (1) the meaning of liberty and its connection to freedom and (2) how "interest" can be defined such that it does not preclude exploitation: how can it ever be in a creature's *interest* to be *exploited*?
+> The problem here is (1) the meaning of liberty and its connection to freedom and (2) how "interest" can be defined such that it does not preclude exploitation: how can it ever be in a creature's *interest* to be *exploited*?
 	
 11:  "Most sentient animals have no intrinsic interest in liberty, the book claims, because they lack the capacities of autonomous agency. That is, the majority of sentient animals lack the ability to frame, revise, and pursue their own conception of the good."
 
-	This gives too much to humans and not enough to animals. On the one hand, humans may be able to conceive the good, but they are rarely endowed with the capacities to realize this good, but these limitations natural, physical or sociological. On the other hand, there is no good reason to privilege long-range good determining over short-range good determining. Animals clearly express short-term preferences for their own good which operates at the individual level and does not coincide in all members of a species. Take any two dogs or cats living in the same house. 
+> This gives too much to humans and not enough to animals. On the one hand, humans may be able to conceive the good, but they are rarely endowed with the capacities to realize this good, but these limitations natural, physical or sociological. On the other hand, there is no good reason to privilege long-range good determining over short-range good determining. Animals clearly express short-term preferences for their own good which operates at the individual level and does not coincide in all members of a species. Take any two dogs or cats living in the same house. 
 	
 11:  "the claim is not that *all* nonhuman animals possess no intrinsic interest in liberty; rather, it is that the vast majority of them do not."
 
-	Admits that cetaceans and great apes may possess requisite autonomy. As a result, "a precautionary principle is probably wise" in these cases.
+> Admits that cetaceans and great apes may possess requisite autonomy. As a result, "a precautionary principle is probably wise" in these cases.
 	
 12:  "The second point of clarification is that this book does not deny the obvious point that all kinds of uses, exploitation, and ownership of animals cause harm to animals. Depriving animals of liberty through confining them in cages and stalls, or through using them to model painful and deadly diseases, obviously inflicts serious harms on them. However, the claim of this book is that it is the pain, suffering, and death that cause the harm in such instances, not the use itself."
 
-	Introduces a distinction between instrumental and intrinsic interests in liberty. Animals only possess an instrumental interest. Confinement is not bad for animals; the suffering, pain and death that derives from confinement is had for animals. On the other hand, humans have an intrinsic interest in liberty. For interest, the case of "The Truman Show" where the main character leads an excellent life but is not aware that he is confined in an artifical town. Opposed to this, he claims that so long as animals are not harmed (i.e., caused to suffer or experience pain or death) in being used in movies, we should not consider such uses bad because it is not as though the dog could choose to behave otherwise. This is ludicrous. While many dogs have particular talents for performance, this does not mean that all dogs do. Some dogs enjoy sports; others do not. Some dogs enjoy fetch or swimming; others do not. Throwing a dog in the water even if there is no chance of the dog drowning and if the dog does not suffer any more than a child experiencing the same is a harm to that dog (or child). An animal given an opportunity for training and who clearly enjoys training is likely benefitted from being enabled to act upon that training; hence, it is "okay" to use that animal in entertainment. An animal that is forced into training, is not given an opportunity to explore other interests, and the like, is clearly harmed in this. 
+> Introduces a distinction between instrumental and intrinsic interests in liberty. Animals only possess an instrumental interest. Confinement is not bad for animals; the suffering, pain and death that derives from confinement is had for animals. On the other hand, humans have an intrinsic interest in liberty. For interest, the case of "The Truman Show" where the main character leads an excellent life but is not aware that he is confined in an artifical town. Opposed to this, he claims that so long as animals are not harmed (i.e., caused to suffer or experience pain or death) in being used in movies, we should not consider such uses bad because it is not as though the dog could choose to behave otherwise. This is ludicrous. While many dogs have particular talents for performance, this does not mean that all dogs do. Some dogs enjoy sports; others do not. Some dogs enjoy fetch or swimming; others do not. Throwing a dog in the water even if there is no chance of the dog drowning and if the dog does not suffer any more than a child experiencing the same is a harm to that dog (or child). An animal given an opportunity for training and who clearly enjoys training is likely benefitted from being enabled to act upon that training; hence, it is "okay" to use that animal in entertainment. An animal that is forced into training, is not given an opportunity to explore other interests, and the like, is clearly harmed in this. 
 	
 13:  "the book claims that animals possess prima facie moral rights not to be made to suffer and not to be killed."
 
@@ -75,7 +75,7 @@ Chapter One: Introduction
 
 14:  "it provides an account of those that the state can legitimately make individuals [i.e., humans?] comply with."
 
-	This does not preclude other potential duties on the part of individuals--"benevolence, generosity, or charity"--but it does limit the enforcement of those duties in that the state has no business here.
+> This does not preclude other potential duties on the part of individuals--"benevolence, generosity, or charity"--but it does limit the enforcement of those duties in that the state has no business here.
 
 Chapter Two: Animals, Interests, and Rights
 ---
@@ -92,7 +92,7 @@ Chapter Two: Animals, Interests, and Rights
 
 28-9:  "The argument of this book is that just as well-being is the necessary and sufficient condition for the possession of moral status, so it is the necessary and sufficient condition for the possession of rights."
 
-	There are a number of possible objections to the view that interests confer rights in the case of animals.
+> There are a number of possible objections to the view that interests confer rights in the case of animals.
 	
 30:  Moral agency is required--however, this does not work in marginal cases, which is perverse. That is, moral agency resides in reciprocity (right<=>duty) and capacity for both elements must be present in order to speak of moral agency. 
 
@@ -189,7 +189,7 @@ Chapter Five: Animals and Genetic Engineering
 
 105:  "animals have no interest in not having been engineered with opportunities for well-being equivalent to or higher than ordinary members of their species. As such, engineering that affords engineered animals these types of opportunities is ordinarily permissible."
 
-	Does this mean that animals have an interest in being genetically engineered if it improves their well-being beyond that of ordinary members of their species?
+> Does this mean that animals have an interest in being genetically engineered if it improves their well-being beyond that of ordinary members of their species?
 	
 115:  "Since it contributes nothing to their well-being, dogs have no interest in having been created with a wagging tail."
 
@@ -199,7 +199,7 @@ Chapter Five: Animals and Genetic Engineering
 
 118:  "The onus must be on engineers to prove that their actions will not cause lives of intolerable suffering for the engineered animals."
 
-	Is *intolerable* really the right criterion in this context? Mild? Horrible? Moderate? These are all acceptable?
+> Is *intolerable* really the right criterion in this context? Mild? Horrible? Moderate? These are all acceptable?
 	
 119:  "If animals are engineered with diseases but with lives that are minimally worth living, then it might be hard to see how any of their rights have been violated."
 
@@ -216,7 +216,7 @@ Chapter Six: Animal Entertainment
 
 131:  "If it is correct that animals have a concrete moral right not to be killed or made to suffer through their use as pets, then pet keeping must be regulated much more rigorously than it is in contemporary political communities."
 
-	For instance, licencing or "background checks" comparable to those adoptive parents of humans must go through.
+> For instance, licencing or "background checks" comparable to those adoptive parents of humans must go through.
 
 135:  "so long as the parent animals are not made to suffer in the process, there can be nothing wrong in itself with creating animals through more conventional breeding."
 
@@ -224,7 +224,7 @@ Chapter Six: Animal Entertainment
 
 136:  Summary of requirements for pet licences: "they prove that they have sufficient time, resources, and understanding to maintain the well-being of the particular animal in question; they take out pet insurance in case of disease or accident; and they agree to take responsibility for the well-being of any offspring that are produced as a result of accidental mating or deliberate breeding."
 
-	Oddly, does not address the issue of pet diets: i.e., cats are natural carnivores and dogs are natural omnivores. Given that we bring pets into the world intentionally, we have a conflict between obligations to pets (provide food) and obligations for "agricultural" animals (not use them as food). While the issue is different in terms of wolf/deer (wolf has right to eat deer; we have no obligation to interfere), Cochrane maintains that there is an obligation to keep cats indoors so as to disallow them to kill small animals and birds--some of which they may eat. 
+> Oddly, does not address the issue of pet diets: i.e., cats are natural carnivores and dogs are natural omnivores. Given that we bring pets into the world intentionally, we have a conflict between obligations to pets (provide food) and obligations for "agricultural" animals (not use them as food). While the issue is different in terms of wolf/deer (wolf has right to eat deer; we have no obligation to interfere), Cochrane maintains that there is an obligation to keep cats indoors so as to disallow them to kill small animals and birds--some of which they may eat. 
 	
 152:  "it is not ordinarily permissible to take possession of an animal existing in the wild."
 
@@ -251,7 +251,7 @@ Chapter Seven: Animals and the Environment
 
 163:  "[John] Hadley ingeniously proposes that nonhuman animals have property rights over their habitats."
 
-	Citing: Hadley, John. "Nonhuman Animal Property: Reconciling Environmentalism and Animal Rights." *Journal of Social Philosophy* 36 (2005): 305-15.
+> Citing: Hadley, John. "Nonhuman Animal Property: Reconciling Environmentalism and Animal Rights." *Journal of Social Philosophy* 36 (2005): 305-15.
 	
 174:  "Therapeutic hunting generally refers to that form of killing animals that is done not for entertainment, trophies, subsistence, or cultural reasons, but to manage wildlife. Simply put, therapeutic hunting refers to those policies of killing wild animals that aim to prevent overpopulation and eradicate or minimize nonnative species."
 
@@ -269,12 +269,12 @@ Chapter Nine: Conclusion
 
 207-9:  Comments at length on the process of social/political change:
 
-> For it may be pointed out that our powers of persuasion--and particularly in relation to the treatment of animals--are somewhat limited. Without doubt there are a number of entrenched and structural obstacles to successfully persuading contemporary political communities that they ought to transform the ways in which they treat nonhuman sentient animals. Clearly there are cultural obstacles. Most Western societies, for example, simply take it for granted that human beings are of supreme moral value, and that nonhumans count for little. Part of the explanation for this cultural attitude of course stems from Judeo-Christian Christian teachings about the special relationship between humans and God--teachings that have been accepted and become embedded over centuries. There are also important material obstacles. Indeed, many of the grossest animal rights violations are committed by agricultural and pharmaceutical businesses with huge resources. Crucially, these are just the kind of resources that governments and political leaders covet and are loathe to shy away from. Our powers of persuasion are also limited by power imbalances between humans and animals. Quite simply, most sentient animals lack the capabilities to speak up and campaign for their own better treatment. This means that animals are necessarily reliant on the motivation and action of human representatives to fight for their cause.
+> "For it may be pointed out that our powers of persuasion--and particularly in relation to the treatment of animals--are somewhat limited. Without doubt there are a number of entrenched and structural obstacles to successfully persuading contemporary political communities that they ought to transform the ways in which they treat nonhuman sentient animals. Clearly there are cultural obstacles. Most Western societies, for example, simply take it for granted that human beings are of supreme moral value, and that nonhumans count for little. Part of the explanation for this cultural attitude of course stems from Judeo-Christian Christian teachings about the special relationship between humans and God--teachings that have been accepted and become embedded over centuries. There are also important material obstacles. Indeed, many of the grossest animal rights violations are committed by agricultural and pharmaceutical businesses with huge resources. Crucially, these are just the kind of resources that governments and political leaders covet and are loathe to shy away from. Our powers of persuasion are also limited by power imbalances between humans and animals. Quite simply, most sentient animals lack the capabilities to speak up and campaign for their own better treatment. This means that animals are necessarily reliant on the motivation and action of human representatives to fight for their cause.
 
-> Given all these impediments to our ability to engage with and inform democratic procedures, it can legitimately be asked how far the strategies of representation, discourse, debate, and persuasion can go. Some campaigners might ask themselves why billions of animals have to suffer so horribly while we forlornly attempt to convince the public that such suffering actually matters. Is democratic underlaboring inevitably doomed to propping up the status quo? If so, are more direct and even violent political interventions justified for the sake of animal rights?
+> "Given all these impediments to our ability to engage with and inform democratic procedures, it can legitimately be asked how far the strategies of representation, discourse, debate, and persuasion can go. Some campaigners might ask themselves why billions of animals have to suffer so horribly while we forlornly attempt to convince the public that such suffering actually matters. Is democratic underlaboring inevitably doomed to propping up the status quo? If so, are more direct and even violent political interventions justified for the sake of animal rights?
 
-> It is my firm belief that they are not. It is crucial that we do not lose sight of democratic procedures for the establishment and promotion of animals rights, for at least three reasons. First, the process of democratic engagement calls for this theory--and any other--to be opened up to public scrutiny. Such a process is absolutely vital before any steps toward policy implementation are taken. It would, after all, be rather strange if this particular book had hit on the absolutely truthful account of our obligations to animals! Just as there are flaws with theories of animal ethics that have gone before it, there are no doubt flaws with the theory of animal rights proposed here. This is not to go back on the arguments that have been made throughout the book--they are offered with the sincere belief that this account is more compelling and plausible than the alternatives. However, it is to admit to fallibility--and hence the idea that all theories should be open to scrutiny, questioned, amended, improved, or even abandoned, as is deemed necessary.
+> "It is my firm belief that they are not. It is crucial that we do not lose sight of democratic procedures for the establishment and promotion of animals rights, for at least three reasons. First, the process of democratic engagement calls for this theory--and any other--to be opened up to public scrutiny. Such a process is absolutely vital before any steps toward policy implementation are taken. It would, after all, be rather strange if this particular book had hit on the absolutely truthful account of our obligations to animals! Just as there are flaws with theories of animal ethics that have gone before it, there are no doubt flaws with the theory of animal rights proposed here. This is not to go back on the arguments that have been made throughout the book--they are offered with the sincere belief that this account is more compelling and plausible than the alternatives. However, it is to admit to fallibility--and hence the idea that all theories should be open to scrutiny, questioned, amended, improved, or even abandoned, as is deemed necessary.
 
-> Democratic underlabouring is also crucial for the sake of legitimacy. The rights proposed in this book are urgent and compelling. The way contemporary societies disregard the interests of nonhuman animals is shocking, and the horrific abuse inflicted upon animals for the most trivial of reasons should be a source of collective shame. However, the appropriate response to these harms and rights violations is not simply to institutionalize and uphold these rights at any cost. Violating basic human rights for the sake of promoting the rights of animals, for example, would obviously be illegitimate, as well as counterproductive. If animal rights are to have political legitimacy, then, it is crucial that they have been arrived at through just democratic procedures. That does not mean, however, that campaigners should just sit around and wait for the political will to emerge. Instead, it means that campaigners should do all they can within those just strategies to establish, foster, and promote that political will. Of course, there are serious and important impediments to realizing that will, as described above. But to think that we have no power or means by which to address and even to overcome those obstacles seems unjustifiably pessimistic. After all, advances in other areas of social justice have taken place across many political communities in spite of similarly powerful obstacles.
+> "Democratic underlabouring is also crucial for the sake of legitimacy. The rights proposed in this book are urgent and compelling. The way contemporary societies disregard the interests of nonhuman animals is shocking, and the horrific abuse inflicted upon animals for the most trivial of reasons should be a source of collective shame. However, the appropriate response to these harms and rights violations is not simply to institutionalize and uphold these rights at any cost. Violating basic human rights for the sake of promoting the rights of animals, for example, would obviously be illegitimate, as well as counterproductive. If animal rights are to have political legitimacy, then, it is crucial that they have been arrived at through just democratic procedures. That does not mean, however, that campaigners should just sit around and wait for the political will to emerge. Instead, it means that campaigners should do all they can within those just strategies to establish, foster, and promote that political will. Of course, there are serious and important impediments to realizing that will, as described above. But to think that we have no power or means by which to address and even to overcome those obstacles seems unjustifiably pessimistic. After all, advances in other areas of social justice have taken place across many political communities in spite of similarly powerful obstacles.
 
-> Finally, it is crucial that democratic procedures and strategies are followed for the sake of the protection of animals themselves. After all, without any kind of democratic support for these rights, not only will legislation protecting them lack political legitimacy, but it will also lack any realistic chance of achieving lasting effects for animals. Citizens will resist and disobey the laws, and governments will lack the will and energy to enforce them. The process of democratic underlaboring--of doing everything in our power to persuade political communities of the validity of these rights--is thus absolutely essential if these animals rights are to be upheld, protected, and enjoyed over the long term.
+> "Finally, it is crucial that democratic procedures and strategies are followed for the sake of the protection of animals themselves. After all, without any kind of democratic support for these rights, not only will legislation protecting them lack political legitimacy, but it will also lack any realistic chance of achieving lasting effects for animals. Citizens will resist and disobey the laws, and governments will lack the will and energy to enforce them. The process of democratic underlaboring--of doing everything in our power to persuade political communities of the validity of these rights--is thus absolutely essential if these animals rights are to be upheld, protected, and enjoyed over the long term.

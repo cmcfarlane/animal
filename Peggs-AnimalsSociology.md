@@ -22,7 +22,7 @@ Chapter 3: Animals, Social Inequalities and Oppression
 
 37:  "Like racism, sexism and classism (to give three examples), speciesism has social structural and economic causes, it is institutionally based, it supports oppressive social arrangements and it 'legitimates and inspires prejudice and discrimination.'"
 
-	Citing: Nibert, D. *Animal Rights/Human Rights: Entanglement of Opression and Liberation*. Rowman & Littlefield, 2002 at 10, 17.
+> Citing: Nibert, D. *Animal Rights/Human Rights: Entanglement of Opression and Liberation*. Rowman & Littlefield, 2002 at 10, 17.
 	
 37:  Nibert identifies three factors legitimating speciesism: economic exploitation/competition, unequal power (especially state) and ideological control. (Citing 2002 at 13).
 
@@ -77,7 +77,7 @@ Chapter 8: Animal Experiments and Animal Rights
 
 128:  "Annually an average of 115 million living vertebrate other animals are used in experiments worldwide. This staggering figure can only be estimated as the majority of countries (79%) do not publish details of the number of other animals used. However, using statistical calculations Katy Taylor and her colleagues estimate that the USA, Japan, China, Australia, France, Canada, the UK, Germany, Taiwan and Brazil use the highest number of other animals in experiments. In 2005 in the European Union (EU) alone, 12.2 million vertebrate living other animals were used in experiments, and in 2010 3.6 million other animals were used in experiments in the UK, representing a 3 per cent increase on the figure for the previous year. These figures only cover mainly vertebrate other animals; there are many additional invertebrate other animals who are not included in the statistics as they are not considered to be 'animals' for the purposes of 'protection.'"
 
-	Primarily citing Taylor, Gordon, Langley, and Higgins. "Estimates of Worldwide Laboratory Animal Use in 2005." *Alternatives to Laboratory Animals* 36 (2008): 327-42.
+> Primarily citing Taylor, Gordon, Langley, and Higgins. "Estimates of Worldwide Laboratory Animal Use in 2005." *Alternatives to Laboratory Animals* 36 (2008): 327-42.
 
 131:  "Looking at the UK alone, the most recent figures reveal that in 69 per cent of all procedures (which include those for biomedical and other purposes) no anaesthetic was used."
 

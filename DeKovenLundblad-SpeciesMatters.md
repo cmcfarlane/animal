@@ -46,7 +46,7 @@ Chapter 4: Archaeology of a Humane Society: Animality, Savagery, Blackness (Mich
 
 80:  "Most of this work was directed toward abuses of workhorses in urban areas, cruelty and neglect toward domestic pets, and practices of fighting or baiting animals such as cocks and dogs. Exceptions included the 'carnivorous appetite, the extension of science, the providing of exercise for an idle class;' thus meat eating, vivisection, and sport hunting, at least for many of the SPCAs, were seen as 'weighty enough to justify exceptions in the law of the land.'"
 
-	Citing Roswell C. McCrae, *The Humane Movement*, 1910/1969.
+> Citing Roswell C. McCrae, *The Humane Movement*, 1910/1969.
 
 87:  "the capacity for *either* humane or inhuman behavior is seen as a sign of difference from those savage groups that have not yet evolved this capacity."
 
