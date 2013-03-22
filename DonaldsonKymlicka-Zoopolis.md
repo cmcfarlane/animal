@@ -96,6 +96,8 @@ Chapter 2: Universal Basic Rights for Animals
 Chapter 3: Extending Animal Rights via Citizenship Theory
 ---
 
+
+
 Chapter 4: Domesticated Animal Citizens with Animal Rights Theory
 ---
 
