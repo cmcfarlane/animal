@@ -38,6 +38,7 @@ Chapter 1: Toward a Sociological Analysis of Animal Oppression
 Chapter 2: Economic Basis of Animal Oppression
 ---
 
+23:  "Culture is composed of common beliefs, values, language, customs, and norms; social structure refers to the ways humans are organized to coordinate actions and work toward established goals. Since human animals, interacting with one another, invent culture and social structure, we say these things are *socially created*."
 
 Chapter 3: Capitalist Expansion and Oppression
 ---
@@ -51,6 +52,6 @@ Chapter 5: Oppression and the Capitalist State
 Chapter 6: The Social Construction of Speciesist Reality
 ---
 
-Chapter 7: Toward a United Struggle Against Oppression
+Chapter 7: Toward a United Struggle Against Oppression 
 ---
 
