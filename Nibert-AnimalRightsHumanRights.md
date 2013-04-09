@@ -1,6 +1,8 @@
 Nibert, David. *Animal Rights/Human Rights: Entanglements of Oppression and Liberation*. Rowman & Littlefield, 2002.
 ===
 
+Book attempts an intersection analysis of the oppression of humans and non-human animals. Analytically and theoretically it is rather simple. Analytically, it largely depends on already available research. Theoretically it expounds a crass Marxism---although Nibert goes out of his way to say this Marxism is a not a "vulgar Marxism"---that treats individuals as cultural dupes, the state as mere means of the economy, and an odd belief in the spontaneous goodness of the workers that has been purposefully corrupted by culture, state and, of course, economy. Methodologically it is based upon coincidence and asserted correlations. There is little to no attempt to provide any sort of demonstration of causality or even that examples are anything but fortuitous and coincidental. 
+
 Introduction
 ---
 
@@ -40,18 +42,37 @@ Chapter 2: Economic Basis of Animal Oppression
 
 23:  "Culture is composed of common beliefs, values, language, customs, and norms; social structure refers to the ways humans are organized to coordinate actions and work toward established goals. Since human animals, interacting with one another, invent culture and social structure, we say these things are *socially created*."
 
+Generally a potted history: hunter-gatherer, agriculture, state, modern capitalism, all of which are seen as gradually expanding the domination over animals and women. While writing a history of human/animal relations that is attentive to how this feeds back into human/human relations is incredibly complex and difficult (there is not yet one single book that does this well with large-scale historical scope), this chapter does not add much. It is largely marxism (fairly vulgar) added to some anthropology and adding in some animals.
+
 Chapter 3: Capitalist Expansion and Oppression
 ---
+
+69:  "The speciesist sense of pride in walking down the street with a purebred dog was not dissimilar to a man's sexist enjoyment of being seen with an attractive woman or a woman's classist satisfaction in walking out with a rich man."
 
 Chapter 4: The Growth of Agribusiness and Global Oppression
 ---
 
+105:  "At least 70 percent of the grain produced in Western industrialized countries is sold as feed for 'farm animals,' as is more than  70 percent of the grain grown in the United States."
+
+113: "Perhaps no corporation is more savvy at killing millions of other animals and exploiting devalued humans than Smithfield Foods."
+
+113:  "Today it is estimated that at least 25 percent of the 'meatpacking' workers in the Midwest alone are illegal."
+
 Chapter 5: Oppression and the Capitalist State
 ---
+
+150:  "Austin Turk outlined five kinds of power that law can give to those who control it: physical force, economic control, political control, ideological power, and diversionary power. While each type of power can be isolated for theoretical reflection, in reality they are usually tightly woven together and are, as such, mutually reinforcing."
+
+160:  "How are 'rights' for other animals to be obtained within a system that is constructed to guard against the imposition of such rights?"
 
 Chapter 6: The Social Construction of Speciesist Reality
 ---
 
+196:  "The conflict between most people's urges toward decency and a social system rooted in oppression leads to the widespread ambivalence about various oppressed 'others.'"
+
+197:  "Invidious ideologies (classism, racism, sexism, speciesism, etc.) are manufactured by the powerful to legitimate their wealth--and these ideologies spawn individual prejudice."
+
 Chapter 7: Toward a United Struggle Against Oppression 
 ---
 
+243:  "a view that ignores the possibilities that socialism may offer for liberation of other animals unduly limits visions and strategies for political alliances and social change."
