@@ -15,7 +15,13 @@ Chapter 1: Nomadic Pastoralism, Ranching, and Violence
 
 10:  "For most of our time on the earth, the members of the human species lived relatively peaceably and survived by sharing resources obtained by foraging and gathering."
 
-10:  "This early form of communal, egalitarian human society was undermined by the onset of organized hunting of other animals, which began no earlier than ninety thousand years ago---and probably much later. The practice of stalking and killing animals increased the propensity for violence among human hunters, and the status of men in society began to be associated largely with their skill and success at hunting other animals. At the same time, the status of women declined; they came to perform more of the daily tasks and child care, while cultivated their skill at stalking animals."
+10:  "This early form of communal, egalitarian human society was undermined by the onset of organized hunting of other animals, which began no earlier than ninety thousand years ago---and probably much later. The practice of stalking and killing animals increased the propensity for violence among human hunters, and the status of men in society began to be associated largely with their skill and success at hunting other animals. At the same time, the status of women declined; they came to perform more of the daily tasks and child care, while cultivated their skill at stalking animals." 
+
+12:  "*Domesecration* is the systemic practice of violence in which social animals are enslaved and biologically manipulated, resulting in their objectification, subordination, and oppression."
+
+14:  "While the enslavement of large groups of domesecrated animals necessitated migration and invasion, there was another motivation for conquest: settled, plant-based societies had manufactured and luxury goods that nomadic groups could not produce."
+
+34:  "With domesecration and enslavement of large mammals being a primary factory in much of the widespread, large-scale violence in Eurasia, it might be expected that there would be less violence in a region of the world that did not have populations of large, domesecrated animals: the pre-Columbian Americas."
 
 Chapter 2: Domesecration and the Americas
 ---
